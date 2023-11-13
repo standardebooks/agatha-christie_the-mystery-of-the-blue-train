@@ -22,3 +22,16 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+/* Dedication page */
+section[epub|type~="dedication"]{
+	margin: 8em auto 0 auto;
+	text-align: center;
+	text-indent: 0;
+}
+
+section[epub|type~="dedication"] p:first-child,
+section[epub|type~="dedication"] p:last-child{
+	font-size: x-large;
+	margin: 1em auto;
+}

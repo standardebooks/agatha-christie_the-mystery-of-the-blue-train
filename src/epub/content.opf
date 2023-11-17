@@ -44,13 +44,15 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008106065</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Retired detective Hercule Poirot finds himself at the scene of a murder aboard a French locomotive.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Mystery of the Blue Train&lt;/i&gt; revolves around a set of fabulous rubies, said to have been worn by Catherine the Great, now purchased by an American millionaire for a gift to his daughter. When she takes them with her on a luxury train to the Riviera, she is unaware that among her fellow passengers are her unfaithful husband, his not-so-secret mistress, a quiet Englishwoman who believes that nothing exciting ever happens to her⁠—and the famous retired detective Hercule Poirot. And, possibly, a murderer.&lt;/p&gt;
+			&lt;p&gt;Despite positive critical reception of this entry in the &lt;a href="https://standardebooks.org/collections/poirot"&gt;Poirot&lt;/a&gt; canon, &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt; described this as the least favorite of her own novels. However, this is almost certainly due to the events in her personal life during that time: specifically, the death of her mother followed closely by the discovery of her husband’s affair and his request for divorce. Suffering from what appears to have been a nervous breakdown, Christie famously disappeared for over a week in December 1926, triggering a nationwide effort to search for her before she was discovered to have checked into a hotel under an assumed name. The novel was written in part during a three-month convalescence following these events.&lt;/p&gt;
+			&lt;p&gt;The book is dedicated to Christie’s secretary Charlotte Fisher and her pet terrier Peter, calling them “distinguished members of the O.F.D.” The “Order of Faithful Dogs” was Christie’s name for her circle of closest friends.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://archive.org/details/agathachristiecr0000unse_z9z5</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">No transcription existed at the time this book was produced; the production is therefore the transcription.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Mystery_of_the_Blue_Train</meta>

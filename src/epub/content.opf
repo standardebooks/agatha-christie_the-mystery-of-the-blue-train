@@ -49,7 +49,7 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/agathachristiecr0000unse_z9z5</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>

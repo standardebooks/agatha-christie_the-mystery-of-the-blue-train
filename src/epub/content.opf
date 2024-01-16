@@ -69,7 +69,7 @@
 		<dc:contributor id="artist">Hermann Pleuer</dc:contributor>
 		<meta property="file-as" refines="#artist">Pleuer, Hermann</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hermann_Pleuer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n80087955</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80087955</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Raiter, Brian</meta>

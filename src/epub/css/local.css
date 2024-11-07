@@ -53,10 +53,9 @@ section[epub|type~="dedication"] > *{
 /* End centered dedications */
 
 section[epub|type~="dedication"] p span{
-	font-size: larger;
 	display: block;
+	font-size: larger;
 }
-
 
 section[epub|type~="dedication"] p + p{
 	font-size: larger;
